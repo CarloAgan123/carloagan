@@ -684,7 +684,7 @@ footer {
 
 @media (max-width: 576px) {
   .hero-content {
-    margin-top: 3rem;
+    margin-top: 5rem;
   }
   
   .hero-buttons {
@@ -698,6 +698,8 @@ footer {
   }
 
   .profile-image-container {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
     width: 200px;
     height: 200px;
   }
